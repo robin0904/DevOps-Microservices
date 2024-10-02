@@ -1,5 +1,5 @@
-Kubernetes Multi-Cluster Deployment with ArgoCD
-This guide demonstrates how to deploy and manage multiple Amazon EKS clusters using eksctl and ArgoCD for GitOps-based continuous deployment.
+**Kubernetes Multi-Cluster Deployment with ArgoCD
+This guide demonstrates how to deploy and manage multiple Amazon EKS clusters using eksctl and ArgoCD for GitOps-based continuous deployment.**
 
 **Step 1: Create EKS Clusters**
 
